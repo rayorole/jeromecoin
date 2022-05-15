@@ -1,6 +1,10 @@
-# JEROMECOIN
+# 👋 Welcome to jeromecoin community ($JERC) 👋
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This github repository contains the official source code of the JEROMECOIN token.
+
+> Coded by Ray Orolé
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40JEROMECOIN)](https://twitter.com/OfficialJERC)
 
 Try running some of the following tasks:
 
