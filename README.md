@@ -2,7 +2,7 @@
 
 This github repository contains the official source code of the JEROMECOIN token.
 
-> Coded by Ray Orolé
+> Project by Alexander, Ray and Beautje
 
 ## How it's made
 
